@@ -1,0 +1,6 @@
+-- Log do sistema --
+Abrindo arquivo JSON
+Lendo arquivo JSON
+Alterando endereco do objeto JSON
+Adcionando novo objeto JSON ao final do arquivo
+Criando novo arquivo de log

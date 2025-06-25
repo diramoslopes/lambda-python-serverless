@@ -1,0 +1,2 @@
+{"nome": "Nome da Pessoa", "endereco": "Rua Nova, 123", "cpf": "123.345.987-90", "casado": true, "imoveis": ["casa", "sitio", "apartamento", "chacara"], "idade": 65}
+{"cidade": "São Paulo"}
